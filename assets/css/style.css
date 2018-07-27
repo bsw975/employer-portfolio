@@ -49,6 +49,7 @@ margin-left: 100px;
     box-shadow: 5px 10px 5px #888;    
 }
 .github {
+    font-size: smaller;
     font-weight: 200;
     color: white;
 }
@@ -89,7 +90,10 @@ margin-left: 100px;
     
 }
 .nav {
-    float: right; padding-top: 15px; padding-bottom: 15px;
+    color: #4aaaa5;
+    float: right;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 .navbar {
     width: 100%;
